@@ -133,7 +133,7 @@ header .navbar a:hover {
     gap: 1.5rem;
     min-height: 100vh;
     align-items: center;
-    background: url(./images/home.jpeg) no-repeat;
+    background: url(./img/home.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
